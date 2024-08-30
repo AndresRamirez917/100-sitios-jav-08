@@ -1,0 +1,58 @@
+/* navbar / showcase */
+#navbar {
+    text-align: center;
+    margin: 0 auto;
+    font-size: small;
+}
+
+#navbar .logo {
+    float: none;
+    text-align: center;
+    height: 100%;
+}
+
+#navbar ul {
+    float: none;
+    padding-left: 20px;
+}
+
+#showcase {
+    height: 100%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#showcase h1 {
+    padding-left: 0px;
+}
+
+#showcase p {
+    padding-left: 0px;
+}
+
+/* services */
+.card{
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+/* about */
+
+#about .about-left {
+    float: none;
+    width: 100%;
+    text-align: justify;
+}
+
+#about .about-right {
+    float: none;
+    width: 100%;
+    text-align: justify;
+}
+
+/* contact */
+#contact form {
+    width: 75%;
+}
+
