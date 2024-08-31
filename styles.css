@@ -191,7 +191,10 @@ body::-webkit-scrollbar-thumb:hover {
     }
 } */
 
-
+ul {
+  list-style: none;
+  text-align: center;
+}
 
 /* Navbar */
 #navbar {
@@ -304,6 +307,16 @@ body::-webkit-scrollbar-thumb:hover {
     float: left;
     width: 33%;
     padding: 49px;
+  }
+
+  .card img {
+    border-radius: 5px;
+    margin-bottom: 2rem;
+  }
+
+  .card .description {
+    text-align: center;
+    margin-bottom: 2rem;
   }
 
   .card img:hover {
